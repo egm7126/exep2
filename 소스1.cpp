@@ -6,7 +6,7 @@ int main
 
 	cout << "hello world, this is test of plug-in of visual studio" << endl;
 
-	typedef newint int;
+	typedef int newint;
 
 	newint a = 1;
 	newint b = 2;
